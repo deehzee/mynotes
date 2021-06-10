@@ -24,11 +24,18 @@
 
 1. [(McGill University) Hamiltion, Graph Representation Learning Book (GRL_Book)](https://www.cs.mcgill.ca/~wlh/grl_book/)
 
-1. [Bronstein, Bruna and Veličković, "Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges,", 2021 (arXiv:2104.13478)](https://arxiv.org/abs/2104.13478)
+1. [Bronstein, Bruna and Veličković, "Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges,", 2021 [arXiv:2104.13478]](https://arxiv.org/abs/2104.13478)
+
+1. [Hamilton, Ying and Leskovec, "Representation Learning on Graphs: Methods and Applications", 2017 [arXiv:1709.05584]](https://arxiv.org/abs/1709.05584)
 
 
 ### Confidence Estimation
 
+1. [(Berkeley) Vemuri, "Scoring Confidence in Neural Networks", 2020 (technical report)[PDF]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-132.pdf)
+
+1. [(UCSD, Amazon) Vasudevan, Sethy and Ghias, "Towards Better Confidence Estimation for Neural Models", 2019 [PDF]](https://assets.amazon.science/06/57/1f6c039b469ab163b301abf8d1a9/towards-better-confidence-estimation-for-neural-models.pdf)
+
+1. [Moon, Kim, Shin and Hwang, "Confidence-Aware Learning for Deep Neural Networks", 2020 [arXiv:2007.01458v3]](https://arxiv.org/abs/2007.01458)
 
 
 ## Blogs
