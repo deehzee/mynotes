@@ -18,5 +18,26 @@
 
 1. [Jeawak, Jones and Schockaert, "Embedding Geographic Locations for Modelling the Natural Environment Using Flickr Tags and Structured Data", 2019 [PDF]](http://orca.cf.ac.uk/119323/1/ECIR2019.pdf)
 
+## Papers on Specific Techniques
 
+### Graph ML
+
+1. [(McGill University) Hamiltion, Graph Representation Learning Book (GRL_Book)](https://www.cs.mcgill.ca/~wlh/grl_book/)
+
+1. [Bronstein, Bruna and Veličković, "Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges,", 2021 (arXiv:2104.13478)](https://arxiv.org/abs/2104.13478)
+
+
+### Confidence Estimation
+
+
+
+## Blogs
+
+1. [(Sentiance) Learning Meaningful Location Embeddings from Unlabeled Visits](https://www.sentiance.com/2018/01/29/unlabeled-visits/)
+
+1. [(Zoopla) Location, Location, Location - How to create geographic area embeddings using Machine Learning and a little black magic wizardry](https://towardsdatascience.com/location-location-location-ec2cc8a223b1)
+
+1. [AddressNet: How to build a robust street address parser usinng a RNN](https://towardsdatascience.com/addressnet-how-to-build-a-robust-street-address-parser-using-a-recurrent-neural-network-518d97b9aebd)
+
+1. [(Gojek) How Gojek Uses NLP to Name Pickup Locations at Scale](https://www.gojek.io/blog/nlp-cartobert)
 
