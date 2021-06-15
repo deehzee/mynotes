@@ -18,7 +18,7 @@
 
 1. [Jeawak, Jones and Schockaert, "Embedding Geographic Locations for Modelling the Natural Environment Using Flickr Tags and Structured Data", 2019 [PDF]](http://orca.cf.ac.uk/119323/1/ECIR2019.pdf)
 
-## Papers on Specific Techniques
+## Papers on Generic Techniques
 
 ### Graph ML
 
